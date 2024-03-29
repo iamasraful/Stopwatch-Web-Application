@@ -21,3 +21,7 @@ This project demonstrates the creation of a stopwatch web application using HTML
 
 ## Acknowledgements
 - This project was inspired by the need for a simple and effective stopwatch solution.
+
+## SCREENSHOTS
+![screenshot1](https://github.com/skasraful0001/PRODIGY_WD_02/assets/139148519/46a89aba-4702-43d3-a45a-eb1cb3a9fef1)
+![screenshot2](https://github.com/skasraful0001/PRODIGY_WD_02/assets/139148519/44c7a39a-9d0a-44f3-bd80-c7dc072da596)
