@@ -15,12 +15,14 @@ This project demonstrates the creation of a stopwatch web application using HTML
 
 ## How to Use
 1. Clone the repository to your local machine.
-2. Open the `index.html` file in your web browser.
+2. Open the `PRODIGY_WD_02.html` file in your web browser.
 3. Start, pause, and reset the stopwatch using the provided buttons.
 4. Record lap times as needed.
 
 ## Acknowledgements
 - This project was inspired by the need for a simple and effective stopwatch solution.
+
+Check it out on LinkedIn - https://www.linkedin.com/posts/skasraful2004_webdevelopment-stopwatchapp-html-activity-7179540932025888768-dLSW?utm_source=share&utm_medium=member_desktop
 
 ## SCREENSHOTS
 ![screenshot1](https://github.com/skasraful0001/PRODIGY_WD_02/assets/139148519/46a89aba-4702-43d3-a45a-eb1cb3a9fef1)
